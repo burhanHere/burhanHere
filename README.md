@@ -1,6 +1,7 @@
 👋 Hello! I’m Muhammad Burhan, a Computer Science graduate and currently working as an Associate Software Engineer. I’m passionate about full-stack development and building scalable, user-friendly applications.
 
 🚀 I work with Angular, NestJS, .NET Core, PostgreSQL, and AWS, and I’m continuously learning new technologies to improve my skill set and knowledge base. I enjoy solving real-world problems and growing as a software professional every day. 💡<br><br>📧 Feel free to reach out: burhanburewala@gmail.com
+<br> You can find my resume in this resposirory: https://github.com/burhanHere/burhanHere
 
 
 ## 🌐 Socials:
